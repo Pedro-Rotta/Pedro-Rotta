@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Olá! Seja bem-vindo ao meu repositório do GitHub!
 
-<!--
-**Pedro-Rotta/Pedro-Rotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 English Version
+- 🔭 I’m currently working on Personal Projects.
+- 🌱 Currently learning Java and C/C++.
+- 👯 Looking to collaborate on projects that help people and allow me to learn.
+- 💬 Feel free to ask me anything!
+- 📫 Contact me at: contato.pedrorotta@gmail.com
 
-Here are some ideas to get you started:
+Versão em Português (BR)
+- 🔭 Atualmente, estou trabalhando em projetos pessoais.
+- 🌱 Aprendendo Java e C/C++.
+- 👯 Buscando colaborar em projetos que ajudem pessoas e me permitam aprender.
+- 💬 Sinta-se à vontade para me perguntar qualquer coisa!
+- 📫 Você pode me contatar pelo e-mail: contato.pedrorotta@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Rotta&show_icons=true&theme=transparent)
+
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/p_rotta7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.pedrorotta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-rotta-5985a0237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>

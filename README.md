@@ -1,6 +1,5 @@
-👋 Olá! Seja bem-vindo ao meu repositório do GitHub!
-
 🌎 English Version
+👋 Hello! Welcome to my GitHub repository!
 - 🔭 I’m currently working on Personal Projects.
 - 🌱 Currently learning Java and C/C++.
 - 👯 Looking to collaborate on projects that help people and allow me to learn.
@@ -8,6 +7,7 @@
 - 📫 Contact me at: contato.pedrorotta@gmail.com
 
 Versão em Português (BR)
+👋 Olá! Seja bem-vindo ao meu repositório do GitHub!
 - 🔭 Atualmente, estou trabalhando em projetos pessoais.
 - 🌱 Aprendendo Java e C/C++.
 - 👯 Buscando colaborar em projetos que ajudem pessoas e me permitam aprender.

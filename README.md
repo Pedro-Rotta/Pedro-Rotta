@@ -1,4 +1,4 @@
-# >🌎 English Version
+# ## >🌎 English Version
 ---
 👋 Hello! Welcome to my GitHub repository!
 - 🔭 I’m currently working on Personal Projects.
@@ -7,7 +7,7 @@
 - 💬 Feel free to ask me anything!
 - 📫 Contact me at: contato.pedrorotta@gmail.com
 
-# >Versão em Português (BR)
+# ## > 🇧🇷 Versão em Português (BR)
 ---
 👋 Olá! Seja bem-vindo ao meu repositório do GitHub!
 - 🔭 Atualmente, estou trabalhando em projetos pessoais.

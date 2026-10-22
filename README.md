@@ -10,7 +10,7 @@ Estudante de **Sistemas de Informação na Unoeste** e desenvolvedor **back-end 
 
 ## 🚀 Projetos em destaque
 - **[Gerenciador Financeiro](https://github.com/Pedro-Rotta/Gerenciador-Financeiro)**: finanças pessoais e familiares com ASP.NET Core 8, EF Core, PostgreSQL, React + TypeScript, JWT, Docker e 93 testes automatizados.
-- **[Agendar Lavagem](https://lavagem-pedrorotta.netlify.app/)**: agendamento online em produção, com back-end sem servidor em Google Apps Script + Google Sheets.
+- **[Agendar Lavagem](https://lavagem-pedrorotta.netlify.app/)**: agendamento online em produção, com back-end sem servidor em Google Apps Script + Google Sheets ([código](https://github.com/Pedro-Rotta/Sistema-de-reservas-simples)).
 - **[Conio2 Facilitado](https://github.com/Pedro-Rotta/Conio2-Facilitado)**: biblioteca em C que ajuda alunos da Unoeste a montar interfaces no console.
 
 ## 🤖 Como eu trabalho
